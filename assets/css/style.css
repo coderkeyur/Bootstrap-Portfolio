@@ -1,0 +1,46 @@
+body{
+    background-image: url("../images/qbkls.png")
+   }
+   
+   nav{
+       margin: 0px;
+       background-color: #ffffff;
+   }
+
+   .logo{
+       background-color: #4aaaa5;
+       color: #ffffff;
+       padding: 15px 20px;
+       margin: 0px;
+       margin-left: 90px;
+    
+   }
+
+   .menu{
+       margin-right: 80px;
+   }
+
+   .container{
+       background-color: #ffffff;
+       margin:auto;
+       margin-top: 20px;
+       margin-left: 140px,auto;
+   }
+   .title{
+       padding-top: 15px;
+       color: #4aaaa5;
+   }
+   .images{
+       position: relative;
+       padding-left: 15px;
+
+   }
+
+   .caption{
+    position:absolute;
+    top: 75%;
+    width: 60%;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 0px 20px;
+   }
